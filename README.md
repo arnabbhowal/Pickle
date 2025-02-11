@@ -36,4 +36,3 @@ In today’s fast-paced world, **choice paralysis** is a common struggle—havin
 🔗 **Devpost Submission:** [Pickle on Devpost](https://devpost.com/software/pickle-frgobu)  
 
 ---
-# Pickle
